@@ -1,0 +1,35 @@
+{
+  "version": 3,
+  "created_at": "2026-01-01T00:00:00+08:00",
+  "initial_cash": 100000.0,
+  "current_cash": 100000.0,
+  "total_assets": 100000.0,
+  "peak_total_assets": 100000.0,
+  "frozen_until": null,
+  "positions": {},
+  "trade_history": [],
+  "daily_snapshots": [],
+  "market_regime": {
+    "regime": "range",
+    "strong_trend": false,
+    "confidence": 50,
+    "bull_score": 0,
+    "bear_score": 0,
+    "emotion_adj": 0,
+    "current": "range"
+  },
+  "stats": {
+    "total_trades": 0,
+    "total_buys": 0,
+    "total_sells": 0,
+    "stop_loss_count": 0,
+    "take_profit_count": 0,
+    "trailing_stop_count": 0,
+    "drawdown_circuit_breaks": 0,
+    "total_fees": 0,
+    "total_profit": 0.0,
+    "win_trades": 0,
+    "lose_trades": 0
+  },
+  "regime_history": []
+}

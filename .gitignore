@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Runtime Data (keep templates, ignore personal data)
+data/trend_account_*.json
+data/trend_report_*.md
+data/backtest_stderr*.log
+data/debate_*
+data/test_*
+
+# Config (keep example, ignore real credentials)
+config/smtp.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Logs
+*.log
+logs/
+
+# Virtual Environment
+venv/
+.venv/
+env/
